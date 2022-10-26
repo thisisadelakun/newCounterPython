@@ -1,6 +1,6 @@
 
-// const hasClass = document.querySelector('h2')
-// hasClass.style.color = 'red'
+const hasClass = document.querySelector('h2')
+hasClass.style.color = 'red'
 
 // let btn = document.querySelector('.btn-group')
 // let para = document.querySelector(`h2`)
